@@ -2,7 +2,7 @@
 > A color scheme for [Netbeans IDE](https://netbeans.org) based on [voronianski's Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
 
 # Installation
-Download the zip file (don't unzip). Then select it from `Preferences` `->` `Fonts & Colors` `->` `Import`.
+Download the zip file in the releases section (don't unzip). Then select it from `Options` `->` `Fonts & Colors` `->` `Import`.
 
 # Screenshot
 ![Screenshot](screenshot.png)
