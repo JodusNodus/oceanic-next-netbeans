@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE fontscolors
-PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
-       "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
- <fontcolor name="char" default="default" foreColor="ffF99157"/>
- <fontcolor name="comment" default="default" foreColor="ff65737e"/>
- <fontcolor name="default" default="default" foreColor="ffCDD3DE" bgColor="ff1B2B34">
-  <font name="Source Code Pro" size="13"/>
- </fontcolor>
- <fontcolor name="entity-reference" default="default">
-  <font style="bold"/>
- </fontcolor>
- <fontcolor name="field" default="default" foreColor="ffF2777A"/>
- <fontcolor name="identifier" default="default"/>
- <fontcolor name="keyword" default="default" foreColor="ffC594C5"/>
- <fontcolor name="method" default="identifier" foreColor="ff6699CC"/>
- <fontcolor name="number" default="default" foreColor="ffF99157"/>
- <fontcolor name="operator" default="default" foreColor="ff5FB3B3"/>
- <fontcolor name="separator" default="default" foreColor="fffafafa"/>
- <fontcolor name="string" default="default" foreColor="ff99C794"/>
- <fontcolor name="url" default="default" underline="ff6699CC"/>
- <fontcolor name="error" default="default" waveUnderlined="ffEC5f67"/>
- <fontcolor name="warning" default="default" waveUnderlined="ffFAC863"/>
+    <fontcolor bgColor="ff4f5b66" name="mark-occurrences"/>
+    <fontcolor default="default" name="identifier"/>
+    <fontcolor default="field" name="markup-attribute"/>
+    <fontcolor default="identifier" foreColor="ff6699cc" name="method"/>
+    <fontcolor default="default" foreColor="ff99c794" name="string"/>
+    <fontcolor default="keyword" name="markup-element"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor default="default" name="error" waveUnderlined="ffec5f67"/>
+    <fontcolor default="default" name="entity-reference">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="fffafafa" name="separator"/>
+    <fontcolor default="default" foreColor="ff5fb3b3" name="operator"/>
+    <fontcolor default="default" name="url" underline="ff6699cc"/>
+    <fontcolor default="default" foreColor="fff99157" name="number"/>
+    <fontcolor bgColor="ff1b2b34" default="default" foreColor="ffcdd3de" name="default">
+        <font name="Source Code Pro" size="13" style="plain"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="fff2777a" name="field"/>
+    <fontcolor default="default" foreColor="fff99157" name="char"/>
+    <fontcolor default="default" name="warning" waveUnderlined="fffac863"/>
+    <fontcolor default="default" foreColor="ff65737e" name="comment"/>
+    <fontcolor default="default" foreColor="ffc594c5" name="keyword"/>
+    <fontcolor foreColor="black" name="whitespace"/>
 </fontscolors>
