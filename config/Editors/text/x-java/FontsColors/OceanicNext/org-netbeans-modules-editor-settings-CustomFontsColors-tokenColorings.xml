@@ -37,7 +37,7 @@ PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
  <fontcolor name="html-tag" default="comment">
   <font name="Source Code Pro" size="13" style="bold"/>
  </fontcolor>
- <fontcolor name="javadoc-identifier" default="comment" foreColor="ff000000"/>
+ <fontcolor name="javadoc-identifier" default="comment" foreColor="ff65737e"/>
  <fontcolor name="javadoc-tag" default="comment">
   <font style="bold"/>
  </fontcolor>

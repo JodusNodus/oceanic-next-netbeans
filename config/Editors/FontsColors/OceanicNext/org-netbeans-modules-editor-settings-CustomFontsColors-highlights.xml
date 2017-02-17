@@ -12,7 +12,5 @@ PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
  <fontcolor name="highlight-search" default="default" foreColor="ff000000" bgColor="ffFAC863"/>
  <fontcolor name="line-number" default="default" foreColor="ff65737e" bgColor="ff343d46"/>
  <fontcolor name="selection" default="default" foreColor="ffa7adba" bgColor="ff4f5b66"/>
- <fontcolor name="text-limit-line-color" default="default" foreColor="ffffa8a8">
-  <font/>
- </fontcolor>
+ <fontcolor name="text-limit-line-color" default="default" foreColor="ffffa8a8"/>
 </fontscolors>
